@@ -1,5 +1,11 @@
 <div id="header" align="center">
   <div id="badges">
+    <a href="https://www.trfore.com?utm_source=github&utm_medium=profile_page">
+      <img
+        src="https://img.shields.io/badge/Personal_Site-black?style=for-the-badge&logo=earth&logoColor=white"
+        alt="Blog Site for Taylor Fore"
+      />
+    </a>
     <a href="https://www.linkedin.com/in/trfore">
       <img
         src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"
@@ -8,7 +14,7 @@
     </a>
     <a href="https://galaxy.ansible.com/ui/standalone/namespaces/7110/">
       <img
-        src="https://img.shields.io/badge/Ansible Galaxy-red?style=for-the-badge&logo=ansible&logoColor=white"
+        src="https://img.shields.io/badge/Ansible_Galaxy-red?style=for-the-badge&logo=ansible&logoColor=white"
         alt="Ansible Galaxy page for Taylor Fore"
       />
     </a>
