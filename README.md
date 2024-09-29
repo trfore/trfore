@@ -26,8 +26,8 @@
 Ansible:
 
 - [Ansible Collection: Smallstep](https://github.com/trfore/ansible-smallstep) - Collection for creating a private PKI with Smallstep.
-- [Ansible Collection: Zoneminder](https://github.com/trfore/ansible-role-zoneminder) - Collection for deploying a Zoneminder CCTV/surveillance server.
 - [Ansible Role: Omada SDN](https://github.com/trfore/ansible-role-omada-install) - Role for installing Omada SDN controller.
+- [Ansible Role: Zoneminder](https://github.com/trfore/ansible-role-zoneminder) - Role for deploying a Zoneminder CCTV/surveillance server.
 
 Proxmox:
 
