@@ -2,8 +2,8 @@
   <div id="badges">
     <a href="https://www.trfore.com?utm_source=github&utm_medium=profile_page">
       <img
-        src="https://img.shields.io/badge/Personal_Site-black?style=for-the-badge&logo=earth&logoColor=white"
-        alt="Blog Site for Taylor Fore"
+        src="https://img.shields.io/badge/Website-black?style=for-the-badge&logo=earth&logoColor=white"
+        alt="Blog Site"
       />
     </a>
     <a href="https://www.linkedin.com/in/trfore">
