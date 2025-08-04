@@ -1,9 +1,9 @@
 <div id="header" align="center">
   <div id="badges">
-    <a href="https://www.trfore.com?utm_source=github&utm_medium=profile_page">
+    <a href="https://www.trfore.com?utm_source=github">
       <img
         src="https://img.shields.io/badge/Website-black?style=for-the-badge&logo=earth&logoColor=white"
-        alt="Blog Site"
+        alt="Website"
       />
     </a>
     <a href="https://www.linkedin.com/in/trfore">
